@@ -5,7 +5,7 @@
  Focused on programming full time, my passion for building brands and executing sales strategies will allow me to work with businesses on Omni and Multi-channel levels.    
  </P>
  
- # Want to Connect?
+ ## Want to Connect?
 
 <p> 
   
