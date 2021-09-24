@@ -9,7 +9,7 @@
 
 <p> 
   
-  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/home).*
+  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/Diazcsu).*
   
 </p>
 
