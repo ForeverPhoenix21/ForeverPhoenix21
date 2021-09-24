@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
  
 <P> My name is Derek. I am a sales professional with ten years in the beverage industry focused on brand management and wholesale distribution. I am currently enrolled in MITxPro full-stack development program. I am learning front-end development working with JavaScript. Soon, I will be learning back-end development working with Mongo DB, Express, React, and Node. 
 
- Focused on programming full time, my passion for building brands and executing sales strategies will allow me to work with businesses on Omni and Multi-channel levels.    
+ By focusing on programming full time, my passion for building brands and executing sales strategies will allow me to work with businesses on multiple levels.    
  </P>
  
  ## Want to Connect?
